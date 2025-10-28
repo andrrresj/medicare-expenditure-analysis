@@ -64,12 +64,8 @@ High-risk beneficiaries spend **4.7x more** than low-risk.
 ## 📧 Contact
 
 **Andres Jimenez**  
-[Add your email here]
+aj804760@gmail.com
 
 ## 📜 License
 
 MIT License - See LICENSE file for details
-
----
-
-*Undergraduate research project, Economics 650-01*
